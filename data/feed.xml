@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 04 Sep 2026 02:49:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 07:57:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services</title>
@@ -24,14 +24,6 @@
 <pubDate>Thu, 03 Sep 2026 15:02:08 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 3.8 Flash is now available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 18:50:38 +0000</pubDate>
-</item>
-<item>
 <title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
 <link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</link>
 <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face</guid>
@@ -40,12 +32,12 @@
 <pubDate>Thu, 03 Sep 2026 15:00:48 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线</title>
-<link>https://arcprize.org/blog/astra</link>
-<guid isPermaLink="true">https://arcprize.org/blog/astra</guid>
-<description>OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Fri, 04 Sep 2026 00:07:48 +0000</pubDate>
+<title>Gemini 3.8 Flash is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 18:50:38 +0000</pubDate>
 </item>
 <item>
 <title>NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
@@ -54,6 +46,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 03 Sep 2026 13:13:48 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线</title>
+<link>https://arcprize.org/blog/astra</link>
+<guid isPermaLink="true">https://arcprize.org/blog/astra</guid>
+<description>OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Fri, 04 Sep 2026 00:07:48 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot app for Beginners: Run several agents at once</title>
@@ -128,20 +128,20 @@
 <pubDate>Thu, 03 Sep 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
-<title>开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot</title>
-<link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</link>
-<guid isPermaLink="true">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</guid>
-<description>作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Fri, 04 Sep 2026 00:07:47 +0000</pubDate>
-</item>
-<item>
 <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
 <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot</title>
+<link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</link>
+<guid isPermaLink="true">https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</guid>
+<description>作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Fri, 04 Sep 2026 00:07:47 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位</title>

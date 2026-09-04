@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:49:13.182279Z",
+  "generated_at": "2026-09-04T07:57:54.717288Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.845,
-      "importance": 0.845,
-      "importance_score": 0.845,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.822,
+        "recency": 0.7632,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8435,
+        "recency": 0.7831,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,90 +226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
-      }
-    },
-    {
-      "story_id": "story_af7f559f57ce",
-      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T18:50:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T18:50:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8912,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T18:50:38Z",
-      "latest_at": "2026-09-03T18:50:38Z",
-      "primary_item": {
-        "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-        "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
-        "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -415,15 +332,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.91,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8073,
+        "recency": 0.7495,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,7 +367,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
+      }
+    },
+    {
+      "story_id": "story_af7f559f57ce",
+      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T18:50:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T18:50:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8274,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T18:50:38Z",
+      "latest_at": "2026-09-03T18:50:38Z",
+      "primary_item": {
+        "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+        "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 3.8 Flash is now available in GitHub Copilot",
+        "title_original": "Gemini 3.8 Flash is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T08:33:35.269413Z"
+      }
+    },
+    {
+      "story_id": "story_16469548a272",
+      "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": "NeoMME：一个高效的多模态原生及多语言编码器",
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": "NeoMME：一个高效的多模态原生及多语言编码器",
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.763,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T13:13:48Z",
+      "latest_at": "2026-09-03T13:13:48Z",
+      "primary_item": {
+        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+        "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_zh": "NeoMME：一个高效的多模态原生及多语言编码器",
+        "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -556,15 +639,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
+        "recency": 0.893,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -591,90 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
-      }
-    },
-    {
-      "story_id": "story_16469548a272",
-      "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_zh": "NeoMME：一个高效的多模态原生及多语言编码器",
-          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_zh": "NeoMME：一个高效的多模态原生及多语言编码器",
-          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8218,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T13:13:48Z",
-      "latest_at": "2026-09-03T13:13:48Z",
-      "primary_item": {
-        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-        "title": "NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "title_zh": "NeoMME：一个高效的多模态原生及多语言编码器",
-        "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Hcompany/neomme",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -722,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8553,
+        "recency": 0.7941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -757,7 +757,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -805,15 +805,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.93,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -839,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -916,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.8451,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -951,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1028,15 +1028,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.8569,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1063,7 +1063,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1111,15 +1111,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9019,
+        "recency": 0.8373,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1146,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1223,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1258,7 +1258,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1306,15 +1306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.8997,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1340,7 +1340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1388,15 +1388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1422,7 +1422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1499,15 +1499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1534,7 +1534,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
+      }
+    },
+    {
+      "story_id": "story_7818dad3e51c",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7495,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T12:00:00Z",
+      "latest_at": "2026-09-03T12:00:00Z",
+      "primary_item": {
+        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1640,15 +1723,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
+        "recency": 0.893,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1675,90 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
-      }
-    },
-    {
-      "story_id": "story_7818dad3e51c",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8073,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T12:00:00Z",
-      "latest_at": "2026-09-03T12:00:00Z",
-      "primary_item": {
-        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_zh": null,
-        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1806,15 +1806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9953,
+        "recency": 0.9241,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1840,7 +1840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1888,15 +1888,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8987,
+        "recency": 0.8344,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1922,7 +1922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     },
     {
@@ -1970,15 +1970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8778,
+        "recency": 0.8149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2004,7 +2004,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T03:18:19.875801Z"
+        "scored_at": "2026-09-04T08:33:35.269413Z"
       }
     }
   ]
