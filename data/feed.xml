@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 04 Sep 2026 07:57:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 09:36:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services</title>
@@ -88,20 +88,20 @@
 <pubDate>Thu, 03 Sep 2026 21:16:11 +0000</pubDate>
 </item>
 <item>
-<title>Upcoming deprecation of selected GitHub Copilot models</title>
-<link>https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 03 Sep 2026 19:40:14 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代 / OpenAI's next big AI model has 'entered the AGI era'</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release</guid>
 <description>OpenAI 发布下一代的旗舰模型 GPT-6 Astra，称其为能力上的世代跃升，Greg Brockman 表示现在可能已进入 AGI 时代。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Upcoming deprecation of selected GitHub Copilot models</title>
+<link>https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 19:40:14 +0000</pubDate>
 </item>
 <item>
 <title>英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台</title>
