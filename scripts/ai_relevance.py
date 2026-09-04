@@ -50,6 +50,18 @@ AI_KEYWORDS = [
     "算力",
     "推理",
     "微调",
+    "多模態",
+    "變換器",
+    "語言模型",
+    "視覺語言模型",
+    "基礎模型",
+    "大型語言模型",
+    "生成式",
+    "人工智慧",
+    "機器學習",
+    "深度學習",
+    "智能體",
+    "微調",
 ]
 
 TECH_KEYWORDS = [
@@ -156,6 +168,10 @@ CURATED_MEDIA_TRUSTED_SOURCE_KEYWORDS = [
     "venturebeat ai",
     "artificial intelligence news",
     "claude code releases",
+    "technews",
+    "ithome",
+    "中央社",
+    "inside",
 ]
 CURATED_MEDIA_RESEARCH_SOURCE_KEYWORDS = [
     "marktechpost research",

@@ -176,6 +176,41 @@ CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
         "html_url": "https://github.com/anthropics/claude-code/releases",
         "max_entries": 6,
     },
+    {
+        # Taiwan tech outlets below only publish all-site RSS; keep them
+        # behind strict title-level AI filtering (Traditional Chinese +
+        # English keywords).
+        "title": "TechNews 科技新報",
+        "xml_url": "https://technews.tw/feed/",
+        "html_url": "https://technews.tw/",
+        "include_keywords": "ai,人工智慧,生成式,大型語言模型,機器學習,輝達,nvidia,openai,anthropic,claude,chatgpt,gpt,gemini,llm,agent,晶片,半導體,台積電",
+        "max_entries": 6,
+        "strict_title_filter": True,
+    },
+    {
+        "title": "iThome",
+        "xml_url": "https://www.ithome.com.tw/rss",
+        "html_url": "https://www.ithome.com.tw/",
+        "include_keywords": "ai,人工智慧,生成式,大型語言模型,機器學習,輝達,nvidia,openai,anthropic,claude,chatgpt,gpt,gemini,llm,agent,晶片,半導體,台積電",
+        "max_entries": 6,
+        "strict_title_filter": True,
+    },
+    {
+        "title": "中央社科技",
+        "xml_url": "https://feeds.feedburner.com/rsscna/technology",
+        "html_url": "https://www.cna.com.tw/list/ait.aspx",
+        "include_keywords": "ai,人工智慧,生成式,大型語言模型,機器學習,輝達,nvidia,openai,anthropic,claude,chatgpt,gpt,gemini,llm,agent,晶片,半導體,台積電",
+        "max_entries": 6,
+        "strict_title_filter": True,
+    },
+    {
+        "title": "INSIDE",
+        "xml_url": "https://www.inside.com.tw/feed/rss",
+        "html_url": "https://www.inside.com.tw/",
+        "include_keywords": "ai,人工智慧,生成式,大型語言模型,機器學習,輝達,nvidia,openai,anthropic,claude,chatgpt,gpt,gemini,llm,agent,晶片,半導體,台積電",
+        "max_entries": 6,
+        "strict_title_filter": True,
+    },
 )
 AIBREAKFAST_JINA_URL = "https://r.jina.ai/https://aibreakfast.beehiiv.com/"
 AIHOT_ITEMS_API_URL = "https://aihot.virxact.com/api/public/items"

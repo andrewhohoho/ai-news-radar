@@ -4,6 +4,29 @@
     <title>AI News Radar RSS Example</title>
   </head>
   <body>
+    <outline text="Reddit AI Communities">
+      <outline
+        text="r/LocalLLaMA"
+        title="r/LocalLLaMA"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss"
+        htmlUrl="https://www.reddit.com/r/LocalLLaMA/"
+      />
+      <outline
+        text="r/MachineLearning"
+        title="r/MachineLearning"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/MachineLearning/.rss"
+        htmlUrl="https://www.reddit.com/r/MachineLearning/"
+      />
+      <outline
+        text="r/ClaudeAI"
+        title="r/ClaudeAI"
+        type="rss"
+        xmlUrl="https://www.reddit.com/r/ClaudeAI/.rss"
+        htmlUrl="https://www.reddit.com/r/ClaudeAI/"
+      />
+    </outline>
     <outline text="Official AI Sources">
       <outline
         text="OpenAI News"
