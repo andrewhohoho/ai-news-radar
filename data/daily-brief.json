@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T06:56:21.540586Z",
+  "generated_at": "2026-09-05T09:02:47.174423Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8068,
+        "recency": 0.7826,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8416,
+        "recency": 0.8164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
+      }
+    },
+    {
+      "story_id": "story_a04d0bb5cd05",
+      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+      "url": "https://www.ithome.com/0/998/758.htm",
+      "primary_url": "https://www.ithome.com/0/998/758.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
+          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "title_zh": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "title_en": null,
+          "title_original": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/758.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:53:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
+          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "title_zh": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "title_en": null,
+          "title_original": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/758.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:53:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T07:53:01Z",
+      "latest_at": "2026-09-05T07:53:01Z",
+      "primary_item": {
+        "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
+        "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+        "title_zh": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+        "title_en": null,
+        "title_original": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+        "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/758.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T09:31:47.507041Z"
+      }
+    },
+    {
+      "story_id": "story_bf4a1e858a01",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9805,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T07:41:03Z",
+      "latest_at": "2026-09-05T07:41:03Z",
+      "primary_item": {
+        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+        "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+        "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+        "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+        "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -244,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8673,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -356,15 +520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.8309,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,7 +555,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
+      }
+    },
+    {
+      "story_id": "story_1997e8c82d30",
+      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "primary_url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "title_zh": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "title_en": null,
+          "title_original": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anthropics/fermats-last-theorem",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:56:50.597000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "title_zh": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "title_en": null,
+          "title_original": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/anthropics/fermats-last-theorem",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:56:50.597000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T07:56:50.597000Z",
+      "latest_at": "2026-09-05T07:56:50.597000Z",
+      "primary_item": {
+        "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
+        "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+        "title_zh": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+        "title_en": null,
+        "title_original": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+        "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/anthropics/fermats-last-theorem",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -468,15 +714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.837,
+        "recency": 0.8119,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -503,89 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
-      }
-    },
-    {
-      "story_id": "story_20abcae7f739",
-      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-      "url": "https://www.ithome.com/0/998/630.htm",
-      "primary_url": "https://www.ithome.com/0/998/630.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
-          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/630.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:52:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
-          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/630.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:52:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8901,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T22:52:38Z",
-      "latest_at": "2026-09-04T22:52:38Z",
-      "primary_item": {
-        "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
-        "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-        "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-        "title_en": null,
-        "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-        "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/630.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -633,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.8634,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,89 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
-      }
-    },
-    {
-      "story_id": "story_3759d425a2e2",
-      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-      "primary_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
-          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-          "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:23:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
-          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-          "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:23:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T17:23:35Z",
-      "latest_at": "2026-09-04T17:23:35Z",
-      "primary_item": {
-        "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
-        "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-        "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-        "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-        "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-        "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -797,15 +879,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8253,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,30 +913,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
-      "story_id": "story_5cd952bee704",
-      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-      "url": "https://www.ithome.com/0/998/661.htm",
-      "primary_url": "https://www.ithome.com/0/998/661.htm",
+      "story_id": "story_20abcae7f739",
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "url": "https://www.ithome.com/0/998/630.htm",
+      "primary_url": "https://www.ithome.com/0/998/630.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
           "title_en": null,
-          "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/661.htm",
+          "url": "https://www.ithome.com/0/998/630.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T00:42:24Z"
+          "published_at": "2026-09-04T22:52:38Z"
         }
       ],
       "source_count": 1,
@@ -863,31 +945,31 @@
       ],
       "items": [
         {
-          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
           "title_en": null,
-          "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/661.htm",
+          "url": "https://www.ithome.com/0/998/630.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T00:42:24Z"
+          "published_at": "2026-09-04T22:52:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9139,
+        "recency": 0.8634,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,17 +977,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-05T00:42:24Z",
-      "latest_at": "2026-09-05T00:42:24Z",
+      "earliest_at": "2026-09-04T22:52:38Z",
+      "latest_at": "2026-09-04T22:52:38Z",
       "primary_item": {
-        "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
-        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-        "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+        "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
         "title_en": null,
-        "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-        "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+        "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/661.htm",
+        "url": "https://www.ithome.com/0/998/630.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
@@ -913,7 +995,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -961,15 +1043,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8145,
+        "recency": 0.7901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -996,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -1044,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.8018,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1077,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -1125,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.756,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1158,7 +1240,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
+      }
+    },
+    {
+      "story_id": "story_3759d425a2e2",
+      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+      "primary_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
+          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+          "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+          "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+          "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+          "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:23:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
+          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+          "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+          "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+          "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+          "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:23:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7977,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T17:23:35Z",
+      "latest_at": "2026-09-04T17:23:35Z",
+      "primary_item": {
+        "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
+        "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+        "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+        "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+        "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+        "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T09:31:47.507041Z"
+      }
+    },
+    {
+      "story_id": "story_5cd952bee704",
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "url": "https://www.ithome.com/0/998/661.htm",
+      "primary_url": "https://www.ithome.com/0/998/661.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_en": null,
+          "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_en": null,
+          "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8865,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T00:42:24Z",
+      "latest_at": "2026-09-05T00:42:24Z",
+      "primary_item": {
+        "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "title_en": null,
+        "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/661.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T09:31:47.507041Z"
+      }
+    },
+    {
+      "story_id": "story_c77a7436b489",
+      "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+      "url": "https://x.com/OpenAI/status/2096133504417616165",
+      "primary_url": "https://x.com/OpenAI/status/2096133504417616165",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd7912ab025a69a304f80263af03d6617c6cf454",
+          "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+          "title_zh": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+          "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+          "title_original": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+          "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2096133504417616165",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "dd7912ab025a69a304f80263af03d6617c6cf454",
+          "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+          "title_zh": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+          "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+          "title_original": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+          "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2096133504417616165",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.973,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T07:09:06Z",
+      "latest_at": "2026-09-05T07:09:06Z",
+      "primary_item": {
+        "id": "dd7912ab025a69a304f80263af03d6617c6cf454",
+        "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+        "title_zh": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+        "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+        "title_original": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+        "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAI/status/2096133504417616165",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -1235,15 +1562,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7512,
+        "recency": 0.7287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1270,7 +1597,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -1318,15 +1645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7943,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1351,7 +1678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     },
     {
@@ -1417,12 +1744,27 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-04T17:09:24Z"
+        },
+        {
+          "id": "4138291cd17d4c62904f1354e50d144913bb62af",
+          "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型 / “Next-token predictor” is the wrong mental model for LLMs",
+          "title_zh": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
+          "title_en": "“Next-token predictor” is the wrong mental model for LLMs",
+          "title_original": "“Next-token predictor” is the wrong mental model for LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-04T17:09:24Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "gmcgoldr.github.io",
         "hackernews"
       ],
@@ -1482,20 +1824,34 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-04T17:09:24Z"
+        },
+        {
+          "id": "4138291cd17d4c62904f1354e50d144913bb62af",
+          "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型 / “Next-token predictor” is the wrong mental model for LLMs",
+          "title_zh": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
+          "title_en": "“Next-token predictor” is the wrong mental model for LLMs",
+          "title_original": "“Next-token predictor” is the wrong mental model for LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-04T17:09:24Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5936,
-      "importance": 0.5936,
-      "importance_score": 0.5936,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6133,
+      "importance": 0.6133,
+      "importance_score": 0.6133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.988,
-        "story_heat": 0.75
+        "recency": 0.9584,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -1519,533 +1875,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
-      }
-    },
-    {
-      "story_id": "story_44e92e2d6bfe",
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "a05d7755fbc5739a5fa08a8fe23dc815d87784ec",
-          "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-          "title_zh": null,
-          "title_en": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-          "title_original": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-04T13:34:12Z"
-        },
-        {
-          "id": "01ab3e2346c8cb93845a5831e6fde05d532e58dd",
-          "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
-          "title_zh": null,
-          "title_en": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
-          "title_original": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T13:34:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "a05d7755fbc5739a5fa08a8fe23dc815d87784ec",
-          "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-          "title_zh": null,
-          "title_en": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-          "title_original": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-04T13:34:12Z"
-        },
-        {
-          "id": "01ab3e2346c8cb93845a5831e6fde05d532e58dd",
-          "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
-          "title_zh": null,
-          "title_en": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
-          "title_original": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T13:34:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.588,
-      "importance": 0.588,
-      "importance_score": 0.588,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7782,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T13:34:12Z",
-      "latest_at": "2026-09-04T13:34:12Z",
-      "primary_item": {
-        "id": "a05d7755fbc5739a5fa08a8fe23dc815d87784ec",
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "title_zh": null,
-        "title_en": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "title_original": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
-      }
-    },
-    {
-      "story_id": "story_051a98f64ffa",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://news.ycombinator.com/item?id=49566137",
-      "primary_url": "https://news.ycombinator.com/item?id=49566137",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "25d47a5db7f0d506516fdabaa5fef37746dfb17e",
-          "title": "Corporate America is getting hooked on open-source AI",
-          "title_zh": null,
-          "title_en": "Corporate America is getting hooked on open-source AI",
-          "title_original": "Corporate America is getting hooked on open-source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49566137",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T19:10:05.692000Z"
-        },
-        {
-          "id": "e35c968af29bd6c6499315cda2cc385983c50e80",
-          "title": "美国企业正逐渐迷上开源人工智能",
-          "title_zh": "美国企业正逐渐迷上开源人工智能",
-          "title_en": null,
-          "title_original": "美国企业正逐渐迷上开源人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T17:19:15.067000Z"
-        },
-        {
-          "id": "a6931ea8112778b1acde80a37f07d69efd62fc83",
-          "title": "美国企业正逐渐迷上开源人工智能 / Corporate America is getting hooked on open-source AI",
-          "title_zh": "美国企业正逐渐迷上开源人工智能",
-          "title_en": "Corporate America is getting hooked on open-source AI",
-          "title_original": "Corporate America is getting hooked on open-source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-04T15:33:45Z"
-        },
-        {
-          "id": "79e990f95c9e59abf3ef407518f4dc7ae8f682b5",
-          "title": "美国企业正逐渐迷上开源人工智能 / Corporate America Is Getting Hooked on Open-Source A.I.",
-          "title_zh": "美国企业正逐渐迷上开源人工智能",
-          "title_en": "Corporate America Is Getting Hooked on Open-Source A.I.",
-          "title_original": "Corporate America Is Getting Hooked on Open-Source A.I.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T14:55:38Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "25d47a5db7f0d506516fdabaa5fef37746dfb17e",
-          "title": "Corporate America is getting hooked on open-source AI",
-          "title_zh": null,
-          "title_en": "Corporate America is getting hooked on open-source AI",
-          "title_original": "Corporate America is getting hooked on open-source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49566137",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T19:10:05.692000Z"
-        },
-        {
-          "id": "e35c968af29bd6c6499315cda2cc385983c50e80",
-          "title": "美国企业正逐渐迷上开源人工智能",
-          "title_zh": "美国企业正逐渐迷上开源人工智能",
-          "title_en": null,
-          "title_original": "美国企业正逐渐迷上开源人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T17:19:15.067000Z"
-        },
-        {
-          "id": "a6931ea8112778b1acde80a37f07d69efd62fc83",
-          "title": "美国企业正逐渐迷上开源人工智能 / Corporate America is getting hooked on open-source AI",
-          "title_zh": "美国企业正逐渐迷上开源人工智能",
-          "title_en": "Corporate America is getting hooked on open-source AI",
-          "title_original": "Corporate America is getting hooked on open-source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-04T15:33:45Z"
-        },
-        {
-          "id": "79e990f95c9e59abf3ef407518f4dc7ae8f682b5",
-          "title": "美国企业正逐渐迷上开源人工智能 / Corporate America Is Getting Hooked on Open-Source A.I.",
-          "title_zh": "美国企业正逐渐迷上开源人工智能",
-          "title_en": "Corporate America Is Getting Hooked on Open-Source A.I.",
-          "title_original": "Corporate America Is Getting Hooked on Open-Source A.I.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T14:55:38Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8437,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T14:55:38Z",
-      "latest_at": "2026-09-04T19:10:05.692000Z",
-      "primary_item": {
-        "id": "25d47a5db7f0d506516fdabaa5fef37746dfb17e",
-        "title": "Corporate America is getting hooked on open-source AI",
-        "title_zh": null,
-        "title_en": "Corporate America is getting hooked on open-source AI",
-        "title_original": "Corporate America is getting hooked on open-source AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49566137",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
-      }
-    },
-    {
-      "story_id": "story_cf09ddd52d41",
-      "title": "人工智能现在能设计电路板了吗？",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-      "primary_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-      "source": "eebench.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
-          "title": "人工智能现在能设计电路板了吗？",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": null,
-          "title_original": "人工智能现在能设计电路板了吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "eebench.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T23:59:17.240000Z"
-        },
-        {
-          "id": "103112e6bcf3536d0a63ac3c8ac49b299be4139d",
-          "title": "Can AI design circuit boards yet?",
-          "title_zh": null,
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49569366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T22:40:31.671000Z"
-        },
-        {
-          "id": "5a0b2133cef4249c3556991f23c4ab1c08422c1f",
-          "title": "人工智能现在能设计电路板了吗？ / Can AI design circuit boards yet?",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T19:48:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "eebench.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
-          "title": "人工智能现在能设计电路板了吗？",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": null,
-          "title_original": "人工智能现在能设计电路板了吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "eebench.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T23:59:17.240000Z"
-        },
-        {
-          "id": "103112e6bcf3536d0a63ac3c8ac49b299be4139d",
-          "title": "Can AI design circuit boards yet?",
-          "title_zh": null,
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49569366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T22:40:31.671000Z"
-        },
-        {
-          "id": "5a0b2133cef4249c3556991f23c4ab1c08422c1f",
-          "title": "人工智能现在能设计电路板了吗？ / Can AI design circuit boards yet?",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T19:48:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5536,
-      "importance": 0.5536,
-      "importance_score": 0.5536,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9045,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T19:48:29Z",
-      "latest_at": "2026-09-04T23:59:17.240000Z",
-      "primary_item": {
-        "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
-        "title": "人工智能现在能设计电路板了吗？",
-        "title_zh": "人工智能现在能设计电路板了吗？",
-        "title_en": null,
-        "title_original": "人工智能现在能设计电路板了吗？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-        "source": "eebench.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
-      }
-    },
-    {
-      "story_id": "story_7bf3b1465465",
-      "title": "人工智能分析指数 v4.2",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "primary_url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "44c644f3ec944ebdf9397656a20ec6c3ed21f55f",
-          "title": "人工智能分析指数 v4.2",
-          "title_zh": "人工智能分析指数 v4.2",
-          "title_en": null,
-          "title_original": "人工智能分析指数 v4.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T06:37:51.877000Z"
-        },
-        {
-          "id": "40cd5fb05dc6ba1a17b5ad5b6cedf3bddfb44f8e",
-          "title": "人工智能分析指数 v4.2 / Artificial Analysis Intelligence Index v4.2",
-          "title_zh": "人工智能分析指数 v4.2",
-          "title_en": "Artificial Analysis Intelligence Index v4.2",
-          "title_original": "Artificial Analysis Intelligence Index v4.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T00:04:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "44c644f3ec944ebdf9397656a20ec6c3ed21f55f",
-          "title": "人工智能分析指数 v4.2",
-          "title_zh": "人工智能分析指数 v4.2",
-          "title_en": null,
-          "title_original": "人工智能分析指数 v4.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T06:37:51.877000Z"
-        },
-        {
-          "id": "40cd5fb05dc6ba1a17b5ad5b6cedf3bddfb44f8e",
-          "title": "人工智能分析指数 v4.2 / Artificial Analysis Intelligence Index v4.2",
-          "title_zh": "人工智能分析指数 v4.2",
-          "title_en": "Artificial Analysis Intelligence Index v4.2",
-          "title_original": "Artificial Analysis Intelligence Index v4.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T00:04:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9956,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T00:04:14Z",
-      "latest_at": "2026-09-05T06:37:51.877000Z",
-      "primary_item": {
-        "id": "44c644f3ec944ebdf9397656a20ec6c3ed21f55f",
-        "title": "人工智能分析指数 v4.2",
-        "title_zh": "人工智能分析指数 v4.2",
-        "title_en": null,
-        "title_original": "人工智能分析指数 v4.2",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T07:25:58.944424Z"
+        "scored_at": "2026-09-05T09:31:47.507041Z"
       }
     }
   ]
