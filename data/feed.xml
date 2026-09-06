@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 06 Sep 2026 14:08:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 17:00:02 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI</title>
+<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+<guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>An Alien Mind</title>
+<link>https://openai.com/index/an-alien-mind</link>
+<guid isPermaLink="true">https://openai.com/index/an-alien-mind</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Sun, 06 Sep 2026 09:00:00 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure</title>
 <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure</link>
@@ -40,12 +56,36 @@
 <pubDate>Sat, 05 Sep 2026 21:31:52 +0000</pubDate>
 </item>
 <item>
+<title>我对人工智能的看法</title>
+<link>https://beza1e1.tuxen.de/ai_feelings.html</link>
+<guid isPermaLink="true">https://beza1e1.tuxen.de/ai_feelings.html</guid>
+<description>beza1e1.tuxen.de</description>
+<category>多源热议</category>
+<pubDate>Sun, 06 Sep 2026 16:12:11 +0000</pubDate>
+</item>
+<item>
 <title>GPT-6 Astra on robot arms</title>
 <link>https://news.ycombinator.com/item?id=49582582</link>
 <guid isPermaLink="true">https://news.ycombinator.com/item?id=49582582</guid>
 <description>hackernews</description>
 <category>多源热议</category>
 <pubDate>Sun, 06 Sep 2026 06:54:59 +0000</pubDate>
+</item>
+<item>
+<title>人工智能关机——保持人性</title>
+<link>https://keepitfree.ai/announcements/a/i-shuts-down-stay-human</link>
+<guid isPermaLink="true">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human</guid>
+<description>keepitfree.ai</description>
+<category>值得关注</category>
+<pubDate>Sun, 06 Sep 2026 15:26:17 +0000</pubDate>
+</item>
+<item>
+<title>人工智能、工具与转型</title>
+<link>https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</link>
+<guid isPermaLink="true">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</guid>
+<description>www.ben-evans.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 06 Sep 2026 14:22:15 +0000</pubDate>
 </item>
 <item>
 <title>大语言模型作为认知病毒</title>
