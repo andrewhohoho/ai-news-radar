@@ -5,23 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 12 Sep 2026 17:07:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 19:24:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+<title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Sat, 12 Sep 2026 17:07:06 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 19:24:32 +0000</pubDate>
 </item>
 <item>
-<title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
-<link>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</guid>
-<description>GitHub AI &amp; ML</description>
+<title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160</title>
+<link>https://x.com/OpenAIDevs/status/2098827327832822014</link>
+<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2098827327832822014</guid>
+<description>OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
-<pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 17:33:23 +0000</pubDate>
 </item>
 <item>
 <title>Add VS Code Agents to Copilot usage metrics</title>
@@ -88,7 +88,7 @@
 <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
+<title>人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down</title>
 <link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
 <guid isPermaLink="true">https://www.bbc.com/news/articles/c14dpgm0rg4o</guid>
 <description>Hacker News (黑客新闻)</description>
@@ -110,30 +110,6 @@
 <description>www.dwarkesh.com</description>
 <category>值得关注</category>
 <pubDate>Sat, 12 Sep 2026 08:31:36 +0000</pubDate>
-</item>
-<item>
-<title>Litelm：精简版 LiteLLM，摒弃冗余</title>
-<link>https://github.com/kennethwolters/litelm</link>
-<guid isPermaLink="true">https://github.com/kennethwolters/litelm</guid>
-<description>github.com</description>
-<category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 02:45:28 +0000</pubDate>
-</item>
-<item>
-<title>数学领域中人工智能的偏差</title>
-<link>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</link>
-<guid isPermaLink="true">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</guid>
-<description>terrytao.wordpress.com</description>
-<category>值得关注</category>
-<pubDate>Fri, 11 Sep 2026 19:07:02 +0000</pubDate>
-</item>
-<item>
-<title>顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods</title>
-<link>https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</link>
-<guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Fri, 11 Sep 2026 18:07:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
