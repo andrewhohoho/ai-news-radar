@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:10:02.587390Z",
+  "generated_at": "2026-09-24T09:57:27.549288Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8444,
+        "recency": 0.7994,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -195,7 +195,7 @@
           "published_at": "2026-09-23T19:23:40Z"
         },
         {
-          "id": "6a153d21328c38250f916728ff38def9b6068ab4",
+          "id": "f3d2476a1ecbec09bf97d72669874f1d72aebe4d",
           "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / Once Claude can measure something, it can make it faster",
           "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
           "title_en": "Once Claude can measure something, it can make it faster",
@@ -203,15 +203,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T19:23:40Z"
         },
         {
           "id": "48e670c560d4a77ed7a2abf222c62b4fedb5fe94",
-          "title": "Once Claude can measure something, it can make it faster",
-          "title_zh": null,
+          "title": "一旦Claude能够测量某些东西，它就能让它变得更快 / Once Claude can measure something, it can make it faster",
+          "title_zh": "一旦Claude能够测量某些东西，它就能让它变得更快",
           "title_en": "Once Claude can measure something, it can make it faster",
           "title_original": "Once Claude can measure something, it can make it faster",
           "summary": null,
@@ -225,7 +225,7 @@
       ],
       "source_count": 5,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News：AI 热帖",
         "claude.dev",
         "hackernews"
@@ -274,7 +274,7 @@
           "published_at": "2026-09-23T19:23:40Z"
         },
         {
-          "id": "6a153d21328c38250f916728ff38def9b6068ab4",
+          "id": "f3d2476a1ecbec09bf97d72669874f1d72aebe4d",
           "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / Once Claude can measure something, it can make it faster",
           "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
           "title_en": "Once Claude can measure something, it can make it faster",
@@ -282,15 +282,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T19:23:40Z"
         },
         {
           "id": "48e670c560d4a77ed7a2abf222c62b4fedb5fe94",
-          "title": "Once Claude can measure something, it can make it faster",
-          "title_zh": null,
+          "title": "一旦Claude能够测量某些东西，它就能让它变得更快 / Once Claude can measure something, it can make it faster",
+          "title_zh": "一旦Claude能够测量某些东西，它就能让它变得更快",
           "title_en": "Once Claude can measure something, it can make it faster",
           "title_original": "Once Claude can measure something, it can make it faster",
           "summary": null,
@@ -304,15 +304,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8567,
-      "importance": 0.8567,
-      "importance_score": 0.8567,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8559,
+        "recency": 0.8103,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8473,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,7 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -462,7 +462,7 @@
           "published_at": "2026-09-23T22:54:29.320000Z"
         },
         {
-          "id": "56afefd048ce11bd9c9dd48a8b2b19a033810164",
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
           "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
           "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
           "title_en": "OpenAI breaches Medicare, Albanese reveals",
@@ -470,15 +470,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T21:01:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.smh.com.au"
       ],
@@ -512,7 +512,7 @@
           "published_at": "2026-09-23T22:54:29.320000Z"
         },
         {
-          "id": "56afefd048ce11bd9c9dd48a8b2b19a033810164",
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
           "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
           "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
           "title_en": "OpenAI breaches Medicare, Albanese reveals",
@@ -520,23 +520,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T21:01:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9005,
+        "recency": 0.8525,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -563,12 +563,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
       "story_id": "story_a34e63681a0b",
-      "title": "More ways to request and configure Copilot code reviews",
+      "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
       "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
       "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
       "source": "GitHub Changelog",
@@ -576,8 +576,8 @@
       "sources": [
         {
           "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "More ways to request and configure Copilot code reviews",
-          "title_zh": null,
+          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
           "title_en": "More ways to request and configure Copilot code reviews",
           "title_original": "More ways to request and configure Copilot code reviews",
           "summary": null,
@@ -596,8 +596,8 @@
       "items": [
         {
           "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "More ways to request and configure Copilot code reviews",
-          "title_zh": null,
+          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
           "title_en": "More ways to request and configure Copilot code reviews",
           "title_original": "More ways to request and configure Copilot code reviews",
           "summary": null,
@@ -611,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8815,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -632,8 +632,8 @@
       "latest_at": "2026-09-23T21:25:58Z",
       "primary_item": {
         "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-        "title": "More ways to request and configure Copilot code reviews",
-        "title_zh": null,
+        "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+        "title_zh": "请求和配置 Copilot 代码审查的更多方法",
         "title_en": "More ways to request and configure Copilot code reviews",
         "title_original": "More ways to request and configure Copilot code reviews",
         "summary": null,
@@ -646,7 +646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -694,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7692,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -777,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8449,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -812,7 +812,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -860,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8082,
+        "recency": 0.7651,
         "story_heat": 0.0
       },
       "category": "official",
@@ -895,7 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -943,15 +943,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8389,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -978,7 +978,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
+      }
+    },
+    {
+      "story_id": "story_1c02ab45228c",
+      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+      "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "primary_url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+      ],
+      "items": [
+        {
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T09:32:14Z",
+      "latest_at": "2026-09-24T09:32:14Z",
+      "primary_item": {
+        "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+        "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T09:58:22.466721Z"
+      }
+    },
+    {
+      "story_id": "story_0f3ada4f2787",
+      "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
+      "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
+      "primary_url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
+          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
+          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T17:09:01.108000Z"
+        },
+        {
+          "id": "6ba9040d8e79cc4a06f495ac4322f56cec61ac6d",
+          "title": "在反重力 SDK 中引入对本地 AI 模型的支持 / Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_zh": "在反重力 SDK 中引入对本地 AI 模型的支持",
+          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the",
+          "source": "r/LocalLLaMA",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T19:12:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google Developers Blog（RSS）",
+        "r/LocalLLaMA"
+      ],
+      "items": [
+        {
+          "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
+          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
+          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T17:09:01.108000Z"
+        },
+        {
+          "id": "6ba9040d8e79cc4a06f495ac4322f56cec61ac6d",
+          "title": "在反重力 SDK 中引入对本地 AI 模型的支持 / Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_zh": "在反重力 SDK 中引入对本地 AI 模型的支持",
+          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the",
+          "source": "r/LocalLLaMA",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T19:12:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7845,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T17:09:01.108000Z",
+      "latest_at": "2026-09-23T19:12:18Z",
+      "primary_item": {
+        "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
+        "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
+        "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
+        "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
+        "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
+        "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
+        "recommend_reason_zh": null,
+        "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -1026,15 +1220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8035,
+        "recency": 0.7607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1061,30 +1255,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
-      "story_id": "story_bcc37401aaaf",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "story_id": "story_ee1d0356cb10",
+      "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "primary_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
+          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+          "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
+          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1093,31 +1287,31 @@
       ],
       "items": [
         {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
+          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+          "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
+          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.815,
+        "ai_relevance": 0.95,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1126,17 +1320,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T16:00:00Z",
-      "latest_at": "2026-09-23T16:00:00Z",
+      "earliest_at": "2026-09-23T12:00:00Z",
+      "latest_at": "2026-09-23T12:00:00Z",
       "primary_item": {
-        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-        "title": "Two years of OpenAI Academy",
-        "title_zh": null,
-        "title_en": "Two years of OpenAI Academy",
-        "title_original": "Two years of OpenAI Academy",
+        "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+        "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
+        "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
+        "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1144,7 +1338,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -1192,15 +1386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9411,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1226,7 +1420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -1274,15 +1468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8152,
+        "recency": 0.7718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1309,7 +1503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -1357,15 +1551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1391,89 +1585,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
-      "story_id": "story_0f3ada4f2787",
-      "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-      "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-      "primary_url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_c8560cd1bebf",
+      "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+      "url": "https://www.aibase.com/news/31347",
+      "primary_url": "https://www.aibase.com/news/31347",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
-          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
-          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
+          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_en": null,
+          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:09:01.108000Z"
+          "url": "https://www.aibase.com/news/31347",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:57:27.549288Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Developers Blog（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
-          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
-          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
+          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_en": null,
+          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:09:01.108000Z"
+          "url": "https://www.aibase.com/news/31347",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:57:27.549288Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
+        "editorial": 0.72,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8286,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T17:09:01.108000Z",
-      "latest_at": "2026-09-23T17:09:01.108000Z",
+      "earliest_at": "2026-09-24T09:57:27.549288Z",
+      "latest_at": "2026-09-24T09:57:27.549288Z",
       "primary_item": {
-        "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
-        "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-        "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
-        "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-        "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
-        "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
+        "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+        "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "title_en": null,
+        "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31347",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -1521,15 +1715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.8813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1555,89 +1749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
-      }
-    },
-    {
-      "story_id": "story_e6d6f5c7088b",
-      "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-      "url": "https://www.aibase.com/news/31338",
-      "primary_url": "https://www.aibase.com/news/31338",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
-          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_en": null,
-          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31338",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T06:10:02.587390Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
-          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_en": null,
-          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31338",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T06:10:02.587390Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T06:10:02.587390Z",
-      "latest_at": "2026-09-24T06:10:02.587390Z",
-      "primary_item": {
-        "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
-        "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-        "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-        "title_en": null,
-        "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31338",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -1685,15 +1797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8484,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1719,7 +1831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     },
     {
@@ -1767,15 +1879,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1801,89 +1913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
-      }
-    },
-    {
-      "story_id": "story_cc7e5e42155c",
-      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-      "url": "https://x.com/natolambert/status/2102872133244183038",
-      "primary_url": "https://x.com/natolambert/status/2102872133244183038",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Nathan Lambert (@natolambert)"
-      ],
-      "items": [
-        {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8815,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:26:00Z",
-      "latest_at": "2026-09-23T21:26:00Z",
-      "primary_item": {
-        "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/natolambert/status/2102872133244183038",
-        "source": "X：Nathan Lambert (@natolambert)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:36:20.375876Z"
+        "scored_at": "2026-09-24T09:58:22.466721Z"
       }
     }
   ]
